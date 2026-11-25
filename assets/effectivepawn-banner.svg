@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">EFFECTIVEPAWN — CTF Player</title>
+  <desc id="desc">Brutalist black, white and red typographic banner for Effectivepawn.</desc>
+  <rect width="1200" height="360" fill="#0A0A0A"/>
+  <rect x="48" y="38" width="1104" height="5" fill="#E53935"/>
+  <text x="50" y="77" fill="#F4F4F0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="4">EP / 001</text>
+  <text x="1150" y="77" fill="#E53935" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="3" text-anchor="end">CTF PLAYER</text>
+  <text x="48" y="209" fill="#F4F4F0" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="112" font-weight="900" letter-spacing="-5">EFFECTIVE<tspan fill="#E53935">PAWN.</tspan></text>
+  <rect x="50" y="238" width="12" height="56" fill="#E53935"/>
+  <text x="82" y="261" fill="#F4F4F0" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" letter-spacing="2">WEB FIRST.</text>
+  <text x="82" y="292" fill="#F4F4F0" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" letter-spacing="2">EVERYTHING ELSE IS FAIR GAME.</text>
+  <text x="1150" y="270" fill="#777777" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2" text-anchor="end">INVESTIGATE / EXPLOIT / DOCUMENT</text>
+  <line x1="48" y1="321" x2="1152" y2="321" stroke="#555555" stroke-width="1"/>
+  <text x="50" y="344" fill="#A8A8A3" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">THE FLAG IS THE RESULT.</text>
+  <text x="1150" y="344" fill="#E53935" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3" text-anchor="end">THE WRITE-UP IS THE PROOF.</text>
+</svg>
