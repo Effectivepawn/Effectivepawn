@@ -1,61 +1,77 @@
-# Hey, I'm Effectivepawn 👋
+<div align="center">
+  <img src="./assets/effectivepawn-banner.svg" alt="EFFECTIVEPAWN — Web first. Everything else is fair game." width="100%" />
+</div>
 
-**CTF Player | Web Exploitation | Security Researcher**
+<p align="center"><strong>CTF PLAYER &nbsp; / &nbsp; WEB EXPLOITATION &nbsp; / &nbsp; GENERALIST</strong></p>
 
-I'm a CTF player interested in understanding how systems work, finding vulnerabilities, and solving challenging security problems.
+---
 
-My primary interest is **Web Exploitation**, but I enjoy exploring different areas of cybersecurity through hands-on CTF challenges.
+## 01 / ABOUT
 
-## 🔍 Areas of Interest
+Recently stepped into the CTF circuit. Here for the problems, not the badges.
 
-- Web Exploitation
-- Binary Exploitation (PWN)
-- Reverse Engineering
-- Cryptography
-- Digital Forensics
-- OSINT
-- Miscellaneous Challenges
+Web is my first stop. Not my only one.
 
-## 🏴 CTF Journey
+PWN, reverse engineering, cryptography, forensics, OSINT, misc — the category matters less than the problem.
 
-I started my CTF journey recently and have been actively exploring different challenge categories, learning through practical problem-solving and documenting my approaches.
+Recon. Wrong turns. Exploit chain. Root cause. That's the part worth documenting.
 
-**Competition Participation**
-- Google Cloud Security — Operation Cymbal: Coldroom 2026 CTF (Individual)
-- Seize Da Flaq
+---
+
+## 02 / THE CIRCUIT
+
+**SELECTED CTF COMPETITIONS**
+
+- Google Cloud Security — Operation Cymbal: Coldroom 2026 CTF · **INDIVIDUAL**
 - HITCON CTF 2026
+- Seize Da Flaq (CTF7)
 - SecLeaf CTF
 - Securinets CTF
 - Sea of Secrets
 
-*More competition details and verified achievements will be added.*
+---
 
-## 📝 Writeups
+## 03 / AREAS OF OPERATION
 
-I document my CTF solutions, investigation process, exploitation techniques, and the reasoning behind each challenge.
-
-Writeups are organized by category:
-
-- Web
-- PWN
-- Reverse Engineering
-- Cryptography
-- Forensics
-- OSINT
-- Miscellaneous
-
-*Featured writeups and repository links coming soon.*
-
-## 🏅 Certifications & Participation
-
-CTF participation certificates and relevant achievements will be showcased here.
-
-## 🌐 Connect With Me
-
-- **CTF Handle:** `Effectivepawn`
-- **Discord:** `@effectivepwn`
-- **CTFtime:** `effectivepawn`
+| DOMAIN | FOCUS |
+|:---|:---|
+| **WEB** | Web exploitation |
+| **PWN** | Binary exploitation |
+| **RE** | Reverse engineering |
+| **CRYPTO** | Cryptographic challenges |
+| **FORENSICS** | Digital investigation |
+| **OSINT** | Open-source intelligence |
+| **MISC** | The unexpected |
 
 ---
 
-*HUNT OR BE HUNTED*
+## 04 / THE WORK
+
+I document what I solve.
+
+Not just the final payload. The evidence, hypotheses, dead ends, exploit path, and root cause.
+
+*Selected writeups and the full archive will be linked here.*
+
+---
+
+## 05 / THE RECORD
+
+CTF participation certificates and competition records.
+
+*Certificate archive will be linked here.*
+
+---
+
+## 06 / CONTACT
+
+| PLATFORM | HANDLE |
+|:---|:---|
+| DISCORD | `@effectivepwn` |
+| CTFTIME | `effectivepawn` |
+
+---
+
+<div align="center">
+  <strong>LESS TALK. BETTER EXPLOITS. STRONGER WRITEUPS.</strong>
+</div>
