@@ -8,7 +8,7 @@
 
 ## 01 / ABOUT
 
-Recently stepped into the CTF circuit. Here for the problems, not the badges.
+Recently started competing in CTFs. Here for the problems, not the badges.
 
 Web is my first stop. Not my only one.
 
@@ -18,7 +18,7 @@ Recon. Wrong turns. Exploit chain. Root cause. That's the part worth documenting
 
 ---
 
-## 02 / THE CIRCUIT
+## 02 / COMPETITION EXPERIENCE
 
 **SELECTED CTF COMPETITIONS**
 
@@ -28,6 +28,7 @@ Recon. Wrong turns. Exploit chain. Root cause. That's the part worth documenting
 - SecLeaf CTF
 - Securinets CTF
 - Sea of Secrets
+- Slay CTF
 
 ---
 
@@ -69,6 +70,7 @@ CTF participation certificates and competition records.
 |:---|:---|
 | DISCORD | `@effectivepwn` |
 | CTFTIME | `effectivepawn` |
+| INSTAGRAM | `@effectivepawn` |
 
 ---
 
