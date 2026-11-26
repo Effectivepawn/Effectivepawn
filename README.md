@@ -29,6 +29,7 @@ Recon. Wrong turns. Exploit chain. Root cause. That's the part worth documenting
 - Securinets CTF
 - Sea of Secrets
 - Slay CTF
+- WolvCTF 2026
 
 ---
 
@@ -52,7 +53,10 @@ I document what I solve.
 
 Not just the final payload. The evidence, hypotheses, dead ends, exploit path, and root cause.
 
-**Featured writeup:** [Lester's Last Call — DTMF & Audio Forensics](./writeups/lesters-last-call/README.md)
+**Featured writeups**
+
+- [Shifted Slice — WolvCTF 2026 / Web Exploitation](./writeups/shifted-slice/README.md)
+- [Lester's Last Call — Seize da Flaq / DTMF & Audio Forensics](./writeups/lesters-last-call/README.md)
 
 ---
 
