@@ -52,7 +52,7 @@ I document what I solve.
 
 Not just the final payload. The evidence, hypotheses, dead ends, exploit path, and root cause.
 
-*Selected writeups and the full archive will be linked here.*
+**Featured writeup:** [Lester's Last Call — DTMF & Audio Forensics](./writeups/lesters-last-call/README.md)
 
 ---
 
